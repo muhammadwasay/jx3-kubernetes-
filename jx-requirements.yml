@@ -24,7 +24,7 @@ spec:
     externalDNS: false
     namespaceSubDomain: -jx.
     tls:
-      email: ""
+      email: "mwk.io"
       enabled: false
       production: false
   repository: bucketrepo
